@@ -24,7 +24,7 @@ public class Operadores2 {
         s= s.toLowerCase();
         System.out.println(s);
 
-        s = " k19 Treinamentos ";
+        s = " Estudos Operadores JAVA ";
         System.out.println(s.trim());
 
     }

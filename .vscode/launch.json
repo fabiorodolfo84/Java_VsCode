@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AprovadoReprovado",
+            "request": "launch",
+            "mainClass": "AprovadoReprovado",
+            "projectName": "Java_VsCode_14c7f4d9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex01_Else",
+            "request": "launch",
+            "mainClass": "Ex01_Else",
+            "projectName": "Java_VsCode_14c7f4d9"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex01_If",
             "request": "launch",
             "mainClass": "Ex01_If",
