@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ADivisivelPorB",
+            "request": "launch",
+            "mainClass": "ADivisivelPorB",
+            "projectName": "Java_VsCode_14c7f4d9"
+        },
+        {
+            "type": "java",
+            "name": "Launch VerificaValorProduto",
+            "request": "launch",
+            "mainClass": "VerificaValorProduto",
+            "projectName": "Java_VsCode_14c7f4d9"
+        },
+        {
+            "type": "java",
             "name": "Launch AprovadoReprovado",
             "request": "launch",
             "mainClass": "AprovadoReprovado",
