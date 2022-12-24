@@ -1,3 +1,4 @@
+package ExerciciosLogica;
 public class Operadores2 {
     public static void main(String[] args) {
         String s = "Fabio Rodolfo";

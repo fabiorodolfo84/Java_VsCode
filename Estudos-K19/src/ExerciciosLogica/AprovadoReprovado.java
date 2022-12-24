@@ -1,3 +1,4 @@
+package ExerciciosLogica;
 public class AprovadoReprovado {
     public static void main(String[] args) {
         double nota = Math.random()*10;

@@ -1,3 +1,4 @@
+package ExerciciosLogica;
 public class Triangulo {
     public static void main(String[] args) {
         System.out.println("*");

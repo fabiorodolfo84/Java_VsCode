@@ -1,3 +1,4 @@
+package ExerciciosLogica;
 public class Ex01_If {
     //A altura minima para ingresso na atração "The Barnstorner" do parque tematico da 
     //Disney "Magiv Kingtom é 0.89 metros. Vamos simular a execução do programa

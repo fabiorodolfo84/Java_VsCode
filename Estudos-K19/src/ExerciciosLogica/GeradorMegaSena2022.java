@@ -1,3 +1,4 @@
+package ExerciciosLogica;
 import java.util.Random;
 
 

@@ -1,3 +1,4 @@
+package ExerciciosLogica;
 public class ADivisivelPorB {
     public static void main(String[] args) {
         int a = (int)(Math.random() * 1000);

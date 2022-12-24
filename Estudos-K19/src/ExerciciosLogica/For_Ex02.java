@@ -1,3 +1,4 @@
+package ExerciciosLogica;
 
 //faça um programa que percorra todos os numeros de 1 ate 100. para os 
 //numeros impares, deve ser exibido um "*" e para os numeros pares "**".

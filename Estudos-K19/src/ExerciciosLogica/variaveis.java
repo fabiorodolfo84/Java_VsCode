@@ -1,3 +1,4 @@
+package ExerciciosLogica;
 public class variaveis {
     public static void main(String[] args) {
         String s1 = "Fabio";

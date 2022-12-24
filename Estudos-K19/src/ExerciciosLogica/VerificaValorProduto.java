@@ -1,3 +1,4 @@
+package ExerciciosLogica;
 public class VerificaValorProduto {
     public static void main(String[] args) {
         double precoProduto1 = Math.random() * 1000;

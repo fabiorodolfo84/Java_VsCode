@@ -1,3 +1,4 @@
+package ExerciciosLogica;
 public class Ex01_Else {
     
         //A altura minima para ingresso na atração "The Barnstorner" do parque tematico da 

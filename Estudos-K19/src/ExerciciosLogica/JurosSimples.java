@@ -1,3 +1,4 @@
+package ExerciciosLogica;
 public class JurosSimples {
     public static void main(String[] args) {
         double P; // valor principal
