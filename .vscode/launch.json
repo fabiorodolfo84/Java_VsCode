@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch JurosSimples",
+            "request": "launch",
+            "mainClass": "JurosSimples",
+            "projectName": "Java_VsCode_1fee6143"
+        },
+        {
+            "type": "java",
             "name": "Launch ADivisivelPorB",
             "request": "launch",
             "mainClass": "ADivisivelPorB",
