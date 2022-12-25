@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TestaCartaoDeCredito",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosJava.TestaCartaoDeCredito",
+            "projectName": "Java_VsCode_1fee6143"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestaCliente",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosJava.TestaCliente",
+            "projectName": "Java_VsCode_1fee6143"
+        },
+        {
+            "type": "java",
             "name": "Launch JurosSimples",
             "request": "launch",
             "mainClass": "JurosSimples",
