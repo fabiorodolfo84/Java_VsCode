@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TestaConta",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosJava.TestaConta",
+            "projectName": "Java_VsCode_1fee6143"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestaAgencia",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosJava.TestaAgencia",
+            "projectName": "Java_VsCode_1fee6143"
+        },
+        {
+            "type": "java",
             "name": "Launch TestaCartaoDeCredito",
             "request": "launch",
             "mainClass": "OrientacaoObjetosJava.TestaCartaoDeCredito",
