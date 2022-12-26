@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TestaMedodosConta",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosJava.TestaMedodosConta",
+            "projectName": "Java_VsCode_1fee6143"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestaContaEAgencia",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosJava.TestaContaEAgencia",
+            "projectName": "Java_VsCode_1fee6143"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestaClienteECartao",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosJava.TestaClienteECartao",
+            "projectName": "Java_VsCode_1fee6143"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestaValoresPadrao",
+            "request": "launch",
+            "mainClass": "OrientacaoObjetosJava.TestaValoresPadrao",
+            "projectName": "Java_VsCode_1fee6143"
+        },
+        {
+            "type": "java",
             "name": "Launch TestaConta",
             "request": "launch",
             "mainClass": "OrientacaoObjetosJava.TestaConta",
